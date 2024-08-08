@@ -1,0 +1,8 @@
+Alex Korp,3000
+Nikita Borisenko,2000
+Sitarama Raju,1000
+Sitrama,Raju, 1000
+Nikita-Borisenko,2000
+Chak Borinko-2000
+Ser Jock, 2100
+Cho Lu, 1300
